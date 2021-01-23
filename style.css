@@ -529,6 +529,9 @@ ul.menu li+li {
 .experience-section h2{
 	font-size: 40px !important;
 }
+.experience-image{
+  width: 100%;
+}
 .experience-section h2 strong {
 	color: #ff6d2a;
 	font-weight: 500;
